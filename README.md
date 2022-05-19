@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **JNelsn/JNelsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JNelsn&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JNelsn&layout=compact)](https://github.com/JNelsn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JNelsn&layout=compact&theme=cobalt)](https://github.com/JNelsn/github-readme-stats)
